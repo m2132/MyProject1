@@ -1,0 +1,27 @@
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חזקיהו אפרת\Fullstack\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.deps.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חזקיהו אפרת\Fullstack\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חזקיהו אפרת\Fullstack\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חזקיהו אפרת\Fullstack\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.csprojAssemblyReference.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חזקיהו אפרת\Fullstack\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.AssemblyInfoInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חזקיהו אפרת\Fullstack\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.AssemblyInfo.cs
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חזקיהו אפרת\Fullstack\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.csproj.CoreCompileInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חזקיהו אפרת\Fullstack\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\חזקיהו אפרת\Fullstack\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+C:\תכנות\שנה ב\Fullstack\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.deps.json
+C:\תכנות\שנה ב\Fullstack\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+C:\תכנות\שנה ב\Fullstack\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+C:\תכנות\שנה ב\Fullstack\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.csproj.AssemblyReference.cache
+C:\תכנות\שנה ב\Fullstack\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.AssemblyInfoInputs.cache
+C:\תכנות\שנה ב\Fullstack\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.AssemblyInfo.cs
+C:\תכנות\שנה ב\Fullstack\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.csproj.CoreCompileInputs.cache
+C:\תכנות\שנה ב\Fullstack\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.dll
+C:\תכנות\שנה ב\Fullstack\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.csprojAssemblyReference.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.AssemblyInfoInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.AssemblyInfo.cs
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.csproj.CoreCompileInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\MyProject\MyProject.Repositories\obj\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.deps.json
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\MyProject\MyProject.Repositories\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
