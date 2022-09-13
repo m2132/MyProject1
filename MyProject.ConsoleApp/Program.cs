@@ -136,6 +136,9 @@ namespace MyProject.ConsoleApp
                 }
             }
             while (obj != "exit");
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
