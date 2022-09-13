@@ -12,7 +12,8 @@ namespace MyProject.ConsoleApp
         {
             var mockContext = new MockContext();
             var roleRepository = new RoleRepository(mockContext);
-
+            var permissionRepository= new PermissionRepository(mockContext);
+            var claimRepository= new ClaimRepository(mockContext);
             //Console.ForegroundColor = ConsoleColor.DarkGreen;
             //Role r = new Role() { Id = 1, Name = "admin", Description = "administractor" };
             //Console.WriteLine($" role: {r.Id} , {r.Name} , {r.Description}");
@@ -49,13 +50,43 @@ namespace MyProject.ConsoleApp
                                 Console.WriteLine("press id for delete");
                                 roleRepository.Delete(int.Parse(Console.ReadLine()));
                                 break;
-                            case "GetAll":
+                            case "getAll":
                                 roleRepository.GetAll();
                                     break;
-                            case "GetById":
+                            case "getById":
                                 Console.WriteLine("press id for get the project");
                                 roleRepository.GetById(int.Parse(Console.ReadLine()));
                                 break;
+                              
+
+                        }
+                        break;
+                    case "p":
+                        Console.WriteLine("enter to choose || update || add || delete ||getAll ||getById ");
+                        choose = Console.ReadLine();
+                        switch (choose)
+                        {
+                            case "add":
+                                permissionRepository.Add(int.Parse(Console.ReadLine()), Console.ReadLine(), Console.ReadLine());
+                                break;
+                            case "update":
+                                Permission permission = permissionRepository.GetById(int.Parse(Console.ReadLine()));
+                               
+
+                                permissionRepository.Update(permission);
+                                break;
+                            case "delete":
+                                Console.WriteLine("press id for delete");
+                                permissionRepository.Delete(int.Parse(Console.ReadLine()));
+                                break;
+                            case "getAll":
+                                permissionRepository.GetAll();
+                                break;
+                            case "getById":
+                                Console.WriteLine("press id for get the project");
+                                permissionRepository.GetById(int.Parse(Console.ReadLine()));
+                                break;
+
 
                         }
                         break;
