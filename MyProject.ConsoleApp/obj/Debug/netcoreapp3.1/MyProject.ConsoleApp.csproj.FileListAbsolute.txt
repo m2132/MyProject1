@@ -64,3 +64,22 @@ W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מי
 W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\Fullstack\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
 W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\Fullstack\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
 W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\Fullstack\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.genruntimeconfig.cache
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.exe
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.deps.json
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.json
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.runtimeconfig.dev.json
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Mock.dll
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Mock.pdb
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.AssemblyReference.cache
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfoInputs.cache
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.AssemblyInfo.cs
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.csproj.CopyComplete
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.dll
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.pdb
+D:\michal\Fullstack\MyProject\MyProject.ConsoleApp\obj\Debug\netcoreapp3.1\MyProject.ConsoleApp.genruntimeconfig.cache
