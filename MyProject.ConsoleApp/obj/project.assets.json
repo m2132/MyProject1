@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "MyProject.Mock/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MyProject.Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyProject.Mock.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyProject.Mock.dll": {}
+        }
+      },
       "MyProject.Repositories/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "MyProject.Mock/1.0.0": {
+      "type": "project",
+      "path": "../MyProject.Mock/MyProject.Mock.csproj",
+      "msbuildProject": "../MyProject.Mock/MyProject.Mock.csproj"
+    },
     "MyProject.Repositories/1.0.0": {
       "type": "project",
       "path": "../MyProject.Repositories/MyProject.Repositories.csproj",
@@ -23,6 +41,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "MyProject.Mock >= 1.0.0",
       "MyProject.Repositories >= 1.0.0"
     ]
   },
@@ -32,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\MyProject\\MyProject.ConsoleApp\\MyProject.ConsoleApp.csproj",
+      "projectUniqueName": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.ConsoleApp\\MyProject.ConsoleApp.csproj",
       "projectName": "MyProject.ConsoleApp",
-      "projectPath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\MyProject\\MyProject.ConsoleApp\\MyProject.ConsoleApp.csproj",
+      "projectPath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.ConsoleApp\\MyProject.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\MyProject\\MyProject.ConsoleApp\\obj\\",
+      "outputPath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +72,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
-              "projectPath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj"
+            "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.Mock\\MyProject.Mock.csproj": {
+              "projectPath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.Mock\\MyProject.Mock.csproj"
+            },
+            "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
+              "projectPath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj"
             }
           }
         }

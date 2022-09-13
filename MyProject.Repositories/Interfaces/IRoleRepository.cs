@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace MyProject.Repositories.Interfaces
 {
     public interface IRoleRepository
     {
-        Role[] GetAll();
+        List<Role> GetAll();
         Role GetById(int id);
         Role Add(int id, string name, string description);
         Role Update(Role role);

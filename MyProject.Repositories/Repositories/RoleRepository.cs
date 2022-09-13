@@ -7,29 +7,43 @@ namespace MyProject.Repositories.Repositories
 {
     public class RoleRepository : IRoleRepository
     {
+        private readonly IContext _context;
+
+        public RoleRepository(IContext context)
+        {
+            _context = context;
+        }
         public Role Add(int id, string name, string description)
         {
-            throw new NotImplementedException();
+            var newRole = new Role { Id = id, Name = name, Description = description };
+            _context.Roles.Add(newRole);
+            return newRole;
         }
 
         public void Delete(int id)
         {
-            throw new NotImplementedException();
+          var deleteRole=_context.Roles.Find(r => r.Id == id);
+            if(deleteRole!=null)
+            _context.Roles.Remove(deleteRole);
+    
         }
-
-        public Role[] GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
         public Role GetById(int id)
         {
-            throw new NotImplementedException();
+            return _context.Roles.Find(r => r.Id == id);
         }
 
         public Role Update(Role role)
         {
-            throw new NotImplementedException();
+            //var newRole = GetById(role.id);לשאול מה עדיף
+            var updateRole= _context.Roles.Find(r => r.Id == role.id);
+            updateRole.Name = role.Name;
+            updateRole.Description = role.Description;         
+            return updateRole;
+        }
+
+        public List<Role> GetAll()
+        {
+            return _context.Roles;
         }
     }
 }

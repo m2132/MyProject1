@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {}
+    "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {}
   },
   "projects": {
-    "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
+    "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj",
+        "projectUniqueName": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj",
         "projectName": "MyProject.Repositories",
-        "projectPath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj",
+        "projectPath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.Repositories\\MyProject.Repositories.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\MyProject\\MyProject.Repositories\\obj\\",
+        "outputPath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,9 +7,17 @@ namespace MyProject.Repositories.Repositories
 {
     public class PermissionRepository : IPermissionRepository
     {
+        private readonly IContext _context;
+
+        public PermissionRepository(IContext context)
+        {
+            _context = context;
+        }
         public Permission Add(int id, string name, string description)
         {
-            throw new NotImplementedException();
+            var newPermission = new Permission { Id = id, Name = name, Description = description };
+            _context.Permissions.Add(newPermission);
+            return newPermission;
         }
 
         public void Delete(int id)
@@ -28,6 +36,11 @@ namespace MyProject.Repositories.Repositories
         }
 
         public Permission Update(Permission permission)
+        {
+            throw new NotImplementedException();
+        }
+
+        List<Permission> IPermissionRepository.GetAll()
         {
             throw new NotImplementedException();
         }

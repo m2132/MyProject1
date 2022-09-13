@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v3.1": {
       "MyProject.ConsoleApp/1.0.0": {
         "dependencies": {
+          "MyProject.Mock": "1.0.0",
           "MyProject.Repositories": "1.0.0"
         },
         "runtime": {
           "MyProject.ConsoleApp.dll": {}
+        }
+      },
+      "MyProject.Mock/1.0.0": {
+        "dependencies": {
+          "MyProject.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "MyProject.Mock.dll": {}
         }
       },
       "MyProject.Repositories/1.0.0": {
@@ -23,6 +32,11 @@
   },
   "libraries": {
     "MyProject.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyProject.Mock/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
