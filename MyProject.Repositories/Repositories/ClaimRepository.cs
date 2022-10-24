@@ -18,6 +18,11 @@ namespace MyProject.Repositories.Repositories
             throw new NotImplementedException();
         }
 
+        public void Add(int v1, string v2, string v3)
+        {
+            throw new NotImplementedException();
+        }
+
         public void Delete(int id)
         {
             throw new NotImplementedException();

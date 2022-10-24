@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Wh2Ij3yCpxSp/LFC8cEHc8AT/KDYR8KLXb6XBuFbMoC9bLBN6QUH57PKKJywEYnDxvRb7tsi9hjL2JHfAS9Qyg==",
+=======
+  "dgSpecHash": "KXMwwPKSSiQ84T3TnzetGYw0hbfD9f6ujLB34WnkaQPlKBSec3zx4w20KS0gm24nJx9LsPfw75gNnYrmhDH4hA==",
+>>>>>>> 903a539cb52fa67328e410a7696e3cc1b4a24049
   "success": true,
-  "projectFilePath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.Mock\\MyProject.Mock.csproj",
+  "projectFilePath": "D:\\michal\\Fullstack\\MyProject\\MyProject.Mock\\MyProject.Mock.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

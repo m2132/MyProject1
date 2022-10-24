@@ -1,10 +1,17 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "YkoDtEHbBqTZJlPCWFr2CL3lKnyNX+qS3Ww56dXUne57FkA2kn8MxcF/y23VrKmrhm00YLp8eeXfvRVSnULWSg==",
   "success": true,
   "projectFilePath": "W:\\כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\כהן מיכל\\Fullstack\\MyProject\\MyProject.ConsoleApp\\MyProject.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "L39UFap4Qxi83P9nC7STb/SzUbZ/7/uuxB8rXIK6kmzdRmFaWV6qNRSJZxOSm/g6CaHALJNhSUVJdMseBJF73A==",
+  "success": true,
+  "projectFilePath": "D:\\michal\\Fullstack\\MyProject\\MyProject.ConsoleApp\\MyProject.ConsoleApp.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 903a539cb52fa67328e410a7696e3cc1b4a24049
   "logs": []
 }

@@ -10,3 +10,16 @@ W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מי
 W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\Fullstack\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.CopyComplete
 W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\Fullstack\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.dll
 W:\כתות ו\התמחויות\הנדסת תוכנה\תלמידות\כהן מיכל\Fullstack\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.pdb
+D:\michal\Fullstack\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Mock.deps.json
+D:\michal\Fullstack\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Mock.dll
+D:\michal\Fullstack\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Mock.pdb
+D:\michal\Fullstack\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Repositories.dll
+D:\michal\Fullstack\MyProject\MyProject.Mock\bin\Debug\netcoreapp3.1\MyProject.Repositories.pdb
+D:\michal\Fullstack\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.AssemblyReference.cache
+D:\michal\Fullstack\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.GeneratedMSBuildEditorConfig.editorconfig
+D:\michal\Fullstack\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.AssemblyInfoInputs.cache
+D:\michal\Fullstack\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.AssemblyInfo.cs
+D:\michal\Fullstack\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.CoreCompileInputs.cache
+D:\michal\Fullstack\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.csproj.CopyComplete
+D:\michal\Fullstack\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.dll
+D:\michal\Fullstack\MyProject\MyProject.Mock\obj\Debug\netcoreapp3.1\MyProject.Mock.pdb
